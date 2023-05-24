@@ -14,3 +14,8 @@ RIME支持全拼+自然码双拼+英文混输，支持自定义短语。
 
 + 自然碼雙拼：https://github.com/rime/rime-double-pinyin
 + 双拼输入法增强版：https://github.com/mutoe/rime
+
+词典参考：
+
++ 袖珍简化字拼音：https://github.com/rime/rime-pinyin-simp
++ 清华大学开源词库：https://github.com/thunlp/THUOCL
