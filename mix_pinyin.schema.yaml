@@ -76,18 +76,18 @@ speller:
     - derive/[uv]n$/P/
     - derive/i?ong$/S/
     - derive/[iu]ang$/D/
-    - derive/(.)en$/$1F/
-    - derive/(.)eng$/$1G/
-    - derive/(.)ang$/$1H/
+    - derive/^(.)en$/$1F/
+    - derive/^(.)eng$/$1G/
+    - derive/^(.)ang$/$1H/
     - derive/ian$/M/
-    - derive/(.)an$/$1J/
+    - derive/^(.)an$/$1J/
     - derive/iao$/C/
-    - derive/(.)ao$/$1K/
-    - derive/(.)ai$/$1L/
-    - derive/(.)ei$/$1Z/
+    - derive/^(.)ao$/$1K/
+    - derive/^(.)ai$/$1L/
+    - derive/^(.)ei$/$1Z/
     - derive/ie$/X/
     - derive/ui$/V/
-    - derive/(.)ou$/$1B/
+    - derive/^(.)ou$/$1B/
     - derive/in$/N/
     - xlit/QWRTYUIOPSDFGHMJCKLZXVBN/qwrtyuiopsdfghmjcklzxvbn/
     #- abbrev/^(.).+$/$1/
