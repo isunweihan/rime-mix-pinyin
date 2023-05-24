@@ -93,7 +93,7 @@ speller:
     #- abbrev/^(.).+$/$1/
 
 translator:
-  dictionary: luna_pinyin
+  dictionary: mix_pinyin
   prism: mix_pinyin
   preedit_format:
     - "xform/([nl])v/$1ü/"
